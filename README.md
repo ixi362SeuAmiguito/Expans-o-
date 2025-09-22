@@ -1,7 +1,7 @@
 TrollTab:AddSection({ "Jujutsu Kaisen - Credits wx" })
 
 TrollTab:AddButton({
-    Name = "[🌌] Expansão de Domínio (by Wx)",
+    Name = "[🌌] Expansão de Domínio (by ixi362)",
     Description = "Isso é muito OP, e causa glitches no cliente dos jogadores!",
     Callback = function()
         local Players = game:GetService("Players")
